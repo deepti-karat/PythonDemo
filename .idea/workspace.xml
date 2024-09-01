@@ -32,7 +32,7 @@
       <recent name="C:\Users\91906\source\repos\PythonDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.StringMethod">
+  <component name="RunManager" selected="Python.Calculator">
     <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,9 +119,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Calculator" />
         <item itemvalue="Python.StringMethod" />
         <item itemvalue="Python.ConditionalExpression" />
-        <item itemvalue="Python.Calculator" />
         <item itemvalue="Python.DataTypes" />
       </list>
     </recent_temporary>
